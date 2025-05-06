@@ -1,0 +1,50 @@
+{
+    "name": "1",
+    "albumName": "2",
+    "albumPictureRelativePath": "album.png",
+    "artist": "3",
+    "rhythms": [
+        {
+            "timeOffset": 0.0,
+            "timeSignature": {
+                "numerator": 4,
+                "denominator": 4
+            },
+            "BPM": {
+                "value": 135.0
+            }
+        }
+    ],
+    "trackDatas": [
+        {
+            "trackType": 0,
+            "clipRelativePath": "track0_bass.wav",
+            "trackIndex": 0
+        },
+        {
+            "trackType": 1,
+            "clipRelativePath": "track1_drums.wav",
+            "trackIndex": 1
+        },
+        {
+            "trackType": 2,
+            "clipRelativePath": "track2_guitar.wav",
+            "trackIndex": 2
+        },
+        {
+            "trackType": 3,
+            "clipRelativePath": "track3_other.wav",
+            "trackIndex": 3
+        },
+        {
+            "trackType": 4,
+            "clipRelativePath": "track4_piano.wav",
+            "trackIndex": 4
+        },
+        {
+            "trackType": 5,
+            "clipRelativePath": "track5_vocals.wav",
+            "trackIndex": 5
+        }
+    ]
+}
